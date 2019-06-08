@@ -5,4 +5,4 @@
 * rtmp nginx的流媒体配置
 * ubuntu.bak 内容更改为 /usr/share/gnome-shell/theme/ubuntu.css内容，在gnomeupdate的时候可能会更改导致变成原来的丑比界面
 
-[](lockingscreen.png)
+[](https://github.com/waynamigo/templates/blob/master/lockingscreen.png)
